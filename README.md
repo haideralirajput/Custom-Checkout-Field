@@ -8,10 +8,9 @@ Delivery Instruction Validator is a **Shopify app extension** designed to improv
 
 ## Features
 
-- **Custom Validation Rules**: Set specific criteria for delivery instructions (e.g., minimum character count, prohibited words, etc.).
-- **Real-Time Feedback**: Validates inputs instantly and provides user-friendly error messages.
-- **Seamless Shopify Integration**: Works as a checkout extension for Shopify stores.
-- **Localization Support**: Supports multiple languages for error messages.
+- **Delivery Checkbox Validation**: Ensures that customers select the delivery instruction checkbox before completing their checkout.  
+- **Error Prompt**: Displays a clear error message, *"Delivery field is not checked"*, if the checkbox is not selected.  
+- **Easy Integration**: Seamlessly integrates with the Shopify checkout process with minimal setup.  
 
 ## Installation
 
@@ -66,8 +65,6 @@ Follow these steps to set up the Delivery Instruction Validator:
    - During checkout, customers will see a delivery instruction field.
    - Invalid inputs will trigger an error message until the instructions meet the set criteria.
 
-4. **Monitor Performance**:
-   View validation statistics and adjust rules as needed from the app's dashboard.
 
 ## Contributing
 
