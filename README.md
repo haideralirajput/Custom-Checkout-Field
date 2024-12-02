@@ -19,7 +19,7 @@ Follow these steps to set up the Delivery Instruction Validator:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/haideralirajput/Custom-Checkout-Field.git
-   cd delivery-instruction-validator
+ cd custom-checkout-field
    ```
 
 2. **Install Dependencies**:
